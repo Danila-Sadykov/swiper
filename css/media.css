@@ -30,7 +30,7 @@
 /* xs <= Small (sm) */
 @media (max-width : 576px) {
   .showcase-carousel__item p{
-    bottom: 100px;
+    bottom: 70px;
   }
 }
 
