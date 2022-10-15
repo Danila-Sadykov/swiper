@@ -22,12 +22,16 @@
 
 /* sm <= Medium (md) */
 @media (max-width : 768px) {
-
+  .showcase-carousel__item p{
+    bottom: -70px;
+  }
 }
 
 /* xs <= Small (sm) */
 @media (max-width : 576px) {
-
+  .showcase-carousel__item p{
+    bottom: 100px;
+  }
 }
 
 
