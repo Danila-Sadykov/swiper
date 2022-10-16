@@ -22,6 +22,10 @@
 
 /* sm <= Medium (md) */
 @media (max-width : 768px) {
+  .showcase-navigation{
+    display: none;
+  }
+
   .showcase-carousel__item p{
     bottom: -70px;
   }
